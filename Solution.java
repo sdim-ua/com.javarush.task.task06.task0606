@@ -14,7 +14,7 @@ public class Solution {
         
          BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
         
-        int num = Integer.parseInt(reader.readLine());;
+        int num = Integer.parseInt(reader.readLine());
         
         while (num !=0){
             
